@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub 🤝
 
 <!--
 **mgoldberg10/mgoldberg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a PhD Candidate at Oden Institute for Computational Science, Engineering, and Mathematics at the University of Texas at Austin, where I am advised by Patrick Heimbach. As a member of the [Computational Research in Ice and Ocean Systems (CRIOS) group]([url](https://crios-ut.github.io/)), my research concerns data assimilation and uncertainty quantification with specific focus on the role of subsea cable observing systems in constraining ocean general circulation models.
